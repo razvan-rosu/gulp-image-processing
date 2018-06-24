@@ -1,2 +1,13 @@
 # gulp-image-processing
-optimize images - jpg and png compression, webm conversion, svg spritesheet generator
+Optimize your project's images (up to 90% filesize decrease):
+- compress jpg and png files 
+- convert jpg and png files to webp
+
+# Prerequisites
+NodeJS, Yarn or NPM
+
+# How to install?
+> yarn install 
+
+# How to run
+> npm start
