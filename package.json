@@ -32,6 +32,7 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-smushit": "^1.2.0",
     "gulp-webp": "^3.0.0",
-    "imagemin-pngquant": "^5.1.0"
+    "imagemin-pngquant": "^5.1.0",
+    "normalize.css": "^8.0.0"
   }
 }
