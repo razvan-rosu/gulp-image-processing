@@ -11,3 +11,6 @@ NodeJS, Yarn or NPM
 
 # How to run
 > npm start
+
+# How to use webp files
+See the <code>demo.html</code> page
