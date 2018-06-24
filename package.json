@@ -1,0 +1,37 @@
+{
+  "name": "gulp-image-processing",
+  "version": "0.0.1",
+  "description": "image optimizer - jpg and png compression, webm conversion",
+  "main": "-",
+  "scripts": {
+    "start": "npm run clean && gulp",
+    "clean": "rm -rf production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razvan-rosu/gulp-image-processing.git"
+  },
+  "keywords": [
+    "assets",
+    "optimization",
+    "compression",
+    "image",
+    "png",
+    "jpg",
+    "webp",
+    "gulp"
+  ],
+  "author": "Razvan Rosu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/razvan-rosu/gulp-image-processing/issues"
+  },
+  "homepage": "https://github.com/razvan-rosu/gulp-image-processing#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-smushit": "^1.2.0",
+    "gulp-webp": "^3.0.0",
+    "imagemin-pngquant": "^5.1.0"
+  }
+}
